@@ -6,15 +6,16 @@ Desktop.ini
 # sass
 node_modules/
 
-# Custom
-config.toml
-TODO.md
-se
-
-# Hugo Themes
-themes/sam/
-themes/universal/
-themes/vex/
-themes/w3css/
-
+# Hugo
 resources/
+# public/
+
+# Hugo Themes - point of listing each theme is that new theme will not be git ignored so it can be added to git as submodule
+themes/erblog/
+themes/ghostwriter/
+themes/hermit/
+themes/hugo-freelancer-theme/
+themes/monopriv/
+themes/simplicity/
+themes/zen/
+themes/zzo/

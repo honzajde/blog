@@ -1,56 +1,55 @@
 +++
-title = "Trading Tools - Overview"
 description = "Overview of main tools in the kit."
 date = "2017-06-10T15:44:04+02:00"
 author = "honzajde"
 slug = "trading-tools-overview"
 +++
 
-## Trading Tools - Overview
+# Trading Tools / Overview
 
 The toolkit has approximately 50 packages, something like 30+ tools, and thousandes of features. I never counted them.
 
-#### Live Quotes
+Live Quotes
 
 * streaming quotes - live, not very reliable; volumes 15 minutes delayed;
 * replay of past streams
 
-#### Historical Quotes
+Historical Quotes
 
 * streaming of historical quotes combines with other tools
 * command line charts (now deprecated)
 
-#### Social Media Integration
+Social Media Integration
 
 * _Twitter_ and _Profitly_ streaming
 * stocktwits symbol exports
 
-#### SoundQ
+SoundQ
 
 * Text to speech server - chat alerts, reading VIP user, ...
-* audio options: Windows Narrator or Amazon Polly
+* speech to text: Windows Narrator or Amazon Polly
 
-#### Calendar
+Calendar
 
 * Announces important day hours
 
-#### Trade Halts
+Trade Halts
 
 * Announces NASDAQ trading halts
 
-#### Earnings
+Earnings
 
 * Overview of earning reports - day before afterhours, today's before open
 
-#### Competitors
+Competitors
 
 * list of company competitors (not very useful though, the way the original selection is )
 
-#### Links Server
+Links Server
 
 * displays links from social media in a dedicated browser window (opens links into fixed number of tabs)
 
-#### SYMBOLS FILE
+SYMBOLS FILE
 
 * easy way for trader to track everything in a single file - SYMBOLS FILE
 * replacement for your excel sheets to keeping track of your picks and notes

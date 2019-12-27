@@ -1,11 +1,11 @@
 +++
-title = "Q&A"
 description = "Questions and answers"
 date = "2017-06-10T15:41:32+02:00"
 author = "honzajde"
+slug = "trading-tools-qa"
 +++
 
-## Trading Tools - Q&A
+# Trading Tools / Q&A
 
 What is this?
 
@@ -17,4 +17,4 @@ What are benefits of this toolkit?
 
 Is it opensource?
 
-> Not yet.
+> Nope.

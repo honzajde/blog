@@ -1,3 +1,18 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:honzajde/honzajde.github.io.git
+[submodule "themes/erblog"]
+	path = themes/erblog
+	url = https://github.com/ertuil/erblog
+[submodule "themes/themes/simplicity"]
+	path = themes/themes/simplicity
+	url = https://github.com/eshlox/simplicity.git
+[submodule "themes/zzo"]
+	path = themes/zzo
+	url = https://github.com/zzossig/hugo-theme-zzo.git
+[submodule "themes/hermit"]
+	path = themes/hermit
+	url = https://github.com/Track3/hermit.git
+[submodule "themes/monopriv"]
+	path = themes/monopriv
+	url = https://gitlab.com/kskarthik/monopriv.git

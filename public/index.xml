@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Trading Tools</title>
+    <title>Trading Tools</title>
     <link>https://honzajde.github.io/</link>
-    <description>Recent content in Homepage on Trading Tools</description>
+    <description>Recent content on Trading Tools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Jun 2017 15:53:18 +0200</lastBuildDate>
@@ -12,46 +11,64 @@
     
     
       <item>
-        <title>Trading Tools - Social Streams</title>
+        <title></title>
         <link>https://honzajde.github.io/trading-tools-streams/</link>
         <pubDate>Sat, 10 Jun 2017 15:53:18 +0200</pubDate>
         <guid>https://honzajde.github.io/trading-tools-streams/</guid>
-        <description>Trading Tools - Social Streams The command that is constanty running is the ./streams script.
+        <description>Trading Tools / Social Streams The command that is constanty running is the ./streams script.
 Features of ./streams script  can combine multiple social streams into standardized format support for Twitter and Profitly syntax highlighting - stock symbols, twitter usernames, &amp;hellip; configurable alerts - regexp matching sending alerts to soundQ filtering streams based on proprietary reputaion searching past streams configurable custom streams  Configuration example:
-Streams in action:
- .</description>
+Streams in action:</description>
       </item>
     
       <item>
-        <title>Trading Tools - Fundamental Analysis</title>
-        <link>https://honzajde.github.io/trading-tools-fundamentals/</link>
+        <title></title>
+        <link>https://honzajde.github.io/trading-tools-sa-fu/</link>
         <pubDate>Sat, 10 Jun 2017 15:52:58 +0200</pubDate>
-        <guid>https://honzajde.github.io/trading-tools-fundamentals/</guid>
-        <description>Trading Tools - Fundamental Analysis One of the main commands of the toolkit is sa fu command.
-Features of sa fu command  fundamentals - cash, balancesheet, market position - every fact has exact date - indicated as a difference and an exact date latest earnings and income statements (quarterly) latest quotes chats mentions - as of now it&amp;rsquo;s Twitter and Profitly combined press releases (PRs) with highlight significant keywords like public offering, Clinical Trial, etc.</description>
+        <guid>https://honzajde.github.io/trading-tools-sa-fu/</guid>
+        <description>Trading Tools / Fundamental Analysis One of the main commands of the toolkit is sa fu command.
+Features of sa fu command  fundamentals - cash, balancesheet, market position - every fact has exact date - indicated as a difference and an exact date latest earnings and income statements (quarterly) latest quotes chats mentions - as of now it&#39;s Twitter and Profitly combined press releases (PRs) with highlight significant keywords like public offering, Clinical Trial, etc.</description>
       </item>
     
       <item>
-        <title>Trading Tools - Overview</title>
+        <title></title>
         <link>https://honzajde.github.io/trading-tools-overview/</link>
         <pubDate>Sat, 10 Jun 2017 15:44:04 +0200</pubDate>
         <guid>https://honzajde.github.io/trading-tools-overview/</guid>
-        <description>Trading Tools - Overview The toolkit has approximately 50 packages, something like 30+ tools, and thousandes of features. I never counted them.
-Live Quotes  streaming quotes - live, not very reliable; volumes 15 minutes delayed; replay of past streams  Historical Quotes  streaming of historical quotes combines with other tools command line charts (now deprecated)  Social Media Integration  Twitter and Profitly streaming stocktwits symbol exports  SoundQ  Text to speech server - chat alerts, reading VIP user, &amp;hellip; audio options: Windows Narrator or Amazon Polly  Calendar  Announces important day hours  Trade Halts  Announces NASDAQ trading halts  Earnings  Overview of earning reports - day before afterhours, today&amp;rsquo;s before open  Competitors  list of company competitors (not very useful though, the way the original selection is )  Links Server  displays links from social media in a dedicated browser window (opens links into fixed number of tabs)  SYMBOLS FILE  easy way for trader to track everything in a single file - SYMBOLS FILE replacement for your excel sheets to keeping track of your picks and notes organized into groups of symbols hot symbols syntax and extracting, e.</description>
+        <description>Trading Tools / Overview The toolkit has approximately 50 packages, something like 30+ tools, and thousandes of features. I never counted them.
+Live Quotes
+ streaming quotes - live, not very reliable; volumes 15 minutes delayed; replay of past streams  Historical Quotes
+ streaming of historical quotes combines with other tools command line charts (now deprecated)  Social Media Integration
+ Twitter and Profitly streaming stocktwits symbol exports  SoundQ</description>
       </item>
     
       <item>
-        <title>Q&amp;A</title>
-        <link>https://honzajde.github.io/qa/</link>
+        <title></title>
+        <link>https://honzajde.github.io/trading-tools-qa/</link>
         <pubDate>Sat, 10 Jun 2017 15:41:32 +0200</pubDate>
-        <guid>https://honzajde.github.io/qa/</guid>
-        <description> Trading Tools - Q&amp;amp;A What is this?
+        <guid>https://honzajde.github.io/trading-tools-qa/</guid>
+        <description>Trading Tools / Q&amp;amp;A What is this?
  Set of commandline tools for day traders of US stocks (Equities, namely on NASDAQ).
  What are benefits of this toolkit?
- Huge timesavings and not only. Many time&amp;rsquo;s there is tens of minutes of time left since the news are being released at morning preparation. The minutes matter.
+ Huge timesavings and not only. Many time&#39;s there is tens of minutes of time left since the news are being released at morning preparation. The minutes matter.
  Is it opensource?
- Not yet.
+ Nope.
  </description>
+      </item>
+    
+      <item>
+        <title>List of posts</title>
+        <link>https://honzajde.github.io/posts/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <guid>https://honzajde.github.io/posts/</guid>
+        <description></description>
+      </item>
+    
+      <item>
+        <title>Media Folder</title>
+        <link>https://honzajde.github.io/media/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <guid>https://honzajde.github.io/media/</guid>
+        <description></description>
       </item>
     
   </channel>

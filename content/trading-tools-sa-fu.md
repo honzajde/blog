@@ -1,16 +1,14 @@
 +++
-title = "Trading Tools - Fundamental Analysis"
-description = "Trading tools for fundamental analysis"
 date = "2017-06-10T15:52:58+02:00"
 author = "honzajde"
-slug = "trading-tools-fundamentals"
+slug = "trading-tools-sa-fu"
 +++
 
-## Trading Tools - Fundamental Analysis
+# Trading Tools / Fundamental Analysis
 
 One of the main commands of the toolkit is `sa fu` command.
 
-### Features of `sa fu` command
+## Features of `sa fu` command
 
 * fundamentals - cash, balancesheet, market position - every fact has exact date - indicated as a difference and an exact date
 * latest earnings and income statements (quarterly)
@@ -28,4 +26,3 @@ output of: `sa fu GLYC` (part 1)
 output of: `sa fu GLYC` (part 2)
 
 ![sa fu GLYC 2](/media/sa_2.PNG)
-

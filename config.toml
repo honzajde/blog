@@ -6,58 +6,52 @@ copyright = "honzajde"
 disqusShortname = "XXX"
 googleAnalytics = "XXX"
 
-[Author]
-    name = "honzajde"
-    profile = "https://google.com/+XXX"
+[author]
+  name = "honzajde"
+  profile = "https://google.com/+XXX"
 
 # [Taxonomies]
 #     tag = "tags"
 
-[Params]
-    intro = true
-    headline = "Trading tools"
-    description = "Set of commandline tools for day traders of US equities, in particular NASDAQs."
-    github = "https://github.com/XXX"
-    gitlab = "https://gitlab.com/XXX"
-    gplus = "https://google.com/+XXX"
-    linkedin = "https://linkedin.com/in/XXX/"
-    twitter = "https://twitter.com/XXX"
-    stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
-    email = "XXX@example.com"
-    opengraph = true
-    shareTwitter = false
-    shareFacebook = false
-    shareGooglePlus = false
-    shareLinkedIn = false
-    dateFormat = "Jan 2, 2006"
+[params]
+  intro = true
+  headline = "Trading tools"
+  description = "Set of commandline tools for day traders of US equities, in particular NASDAQs."
+  github = "https://github.com/XXX"
+  gitlab = "https://gitlab.com/XXX"
+  gplus = "https://google.com/+XXX"
+  linkedin = "https://linkedin.com/in/XXX/"
+  twitter = "https://twitter.com/XXX"
+  stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
+  email = "XXX@example.com"
+  opengraph = true
+  shareTwitter = false
+  shareFacebook = false
+  shareGooglePlus = false
+  shareLinkedIn = false
+  dateFormat = "Jan 2, 2006"
 
 [imaging]
   anchor = "smart"
   resampleFilter = "box"
-  quality = 75
+  quality = 100
 
-[Permalinks]
+[permalinks]
     post = "/:year/:month/:day/:filename/"
 
 # [[menu.main]]
-#     name = "Home"
-#     url = "/post/"
+#     name = "Home XXX"
+#     url = "/"
 #     weight = 1
 
 [[menu.pages]]
-  name = "Trading Tools - Overview"
-  weight = 10
-  identifier = "trading-tools-overview"
-  url = "/trading-tools-overview/"
-
-[[menu.pages]]
-  name = "Trading Tools - Fundamental Analysis"
+  name = "Trading Tools / Fundamental Analysis"
   weight = 20
   identifier = "trading-tools-fundamentals"
-  url = "/trading-tools-fundamentals/"
+  url = "/trading-tools-sa-fu/"
 
 [[menu.pages]]
-  name = "Trading Tools - Social Streams"
+  name = "Trading Tools / Social Media Streams"
   weight = 30
   identifier = "trading-tools-streams"
   url = "/trading-tools-streams/"  
@@ -66,7 +60,7 @@ googleAnalytics = "XXX"
   name = "Trading Tools - Q&A"
   weight = 100
   identifier = "qa"
-  url = "/qa/"
+  url = "/trading-tools-qa/"
 
 # [[menu.pages]]
 #   name = "Photos"
